@@ -7,3 +7,4 @@ Includes :
  - commands
  - Tutorials
  - Video
+ - Projects
